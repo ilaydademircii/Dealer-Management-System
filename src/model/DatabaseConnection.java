@@ -7,8 +7,8 @@ import java.sql.SQLException;
 public class DatabaseConnection {
 
 	private static DatabaseConnection instance;
-	private String username = "hekim";
-	private String password = "hKM.6406";
+	private String username = "**";
+	private String password = "**";
 	private String dbName = "tractordealermanagementsystem";
 	private String host = "127.0.0.1";
 	private int port = 3306;
